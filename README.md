@@ -10,10 +10,9 @@ Many patients in Nigeria struggle to read appointment details, especially in Eng
 
 ## Demo
 
-🎧 [Listen to a sample ticket](demo/ticket-demo.mp3)
+[![Medico Voice demo](https://img.youtube.com/vi/BqMIVH5sIdc/0.jpg)](https://youtu.be/BqMIVH5sIdc)
 
-> "Hello Maryam Ngozi. Your malaria appointment at Belam Medical Centre is at 10:30. Amount paid: 12,500 naira."
-
+🎬 [Watch the demo on YouTube](https://youtu.be/BqMIVH5sIdc)
 ## How it works
 
 ```
